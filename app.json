@@ -19,6 +19,7 @@
       "bundleIdentifier": "com.nishanbende.androidperftest"
     },
     "android": {
+      "minSdkVersion": 23,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
